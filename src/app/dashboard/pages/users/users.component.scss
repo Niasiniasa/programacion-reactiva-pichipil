@@ -1,0 +1,12 @@
+app-users-table {
+    display: block;
+}
+
+::ng-deep .mat-drawer-content{
+    overflow: hidden;
+}
+
+.scroll{
+    height: 48rem;
+    overflow-y: auto;
+}
